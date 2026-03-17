@@ -4,6 +4,8 @@
   - 해당 Method에서 파일을 읽어오는 코드를 만들었다.
 ### 2. Filewrite
   - 파일에 log4j 처럼 파일을 기록할 수 있도록 만들었다.
+
+#code 실행시 consol에 기록되는 예시이다.
 ex)
 ### application 실행 ###
 [Step 1] 설정 파일 로드 시작...
