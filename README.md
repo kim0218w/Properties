@@ -6,7 +6,7 @@
   - 파일에 log4j 처럼 파일을 기록할 수 있도록 만들었다.
 
 
-##  Code 실행시 consol에 기록되는 예시이다.
+##  Code 실행시 consol에 기록되는 예시
 ex)
 ### application 실행 ###
 [Step 1] 설정 파일 로드 시작...
