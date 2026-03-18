@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Properties;
-asdasd
+//rkskeee
 public class application {
 
     private static final String Config_Path = "C:/Tes/info.properties";
